@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4f10a89-8312-4c3f-8013-30f321ebf488" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dzienna norma wody.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dzienna norma wody.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dzienna norma wody.userlibraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WaterIntakeCalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/WaterIntakeCalculatorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/AbstractWaterIntakeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/WaterIntakeCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QVzgLBl4hj6YftDlMeNjeAEbXS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "C:/Users/Dasha/IdeaProjects/Dzienna norma wody/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interfaces" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4f10a89-8312-4c3f-8013-30f321ebf488" name="Changes" comment="" />
+      <created>1685453649328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685453649328</updated>
+    </task>
+    <servers />
+  </component>
+</project>
